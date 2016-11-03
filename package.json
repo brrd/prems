@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/brrd/prems/issues"
   },
-  "homepage": "https://github.com/brrd/prems"
+  "homepage": "https://github.com/brrd/prems",
+  "dependencies": {
+    "polygoat": "^1.1.4"
+  }
 }
