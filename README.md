@@ -2,6 +2,10 @@
 
 > Hierarchical filepath resolver
 
+## :warning: This module is deprecated
+
+Use this alternative instead: <https://github.com/sindresorhus/locate-path>
+
 ## Installation
 
 ```
